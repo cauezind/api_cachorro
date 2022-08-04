@@ -50,7 +50,7 @@ button:hover{
     cursor: pointer;
     background-color: rgb(113, 143, 113);
     transition: ease-in-out 500ms;
-    transform: scale(1.02);
+    transform: scale(1.06);
     
 }
 
